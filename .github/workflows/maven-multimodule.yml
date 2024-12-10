@@ -12,7 +12,7 @@ jobs:
 
     # Define environment variables
     env:
-      JAVA_VERSION: "11"
+      JAVA_VERSION: "17"
       MAIN_MODULE: "module-c" # The main module for build and tests
 
     steps:
